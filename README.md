@@ -22,7 +22,11 @@ Numerical models are widely used, but gaining expertise in how they work has oft
 
 ## Authors
 
+<<<<<<< HEAD
 [JT Thielen](@jthielen), Justin Spotts [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+=======
+[JT Thielen](@jthielen), [Roger Riggin](@riotrogerriot), etc. _Acknowledge primary content authors here_
+>>>>>>> e03a7caeea7258ca7b1af7c26ab626505a2e58dc
 
 ### Contributors
 
